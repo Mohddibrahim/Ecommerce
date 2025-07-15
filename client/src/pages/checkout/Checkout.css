@@ -1,0 +1,11 @@
+
+
+/* src/pages/Checkout.css */
+
+.checkout-page input[type="number"]::-webkit-outer-spin-button,
+.checkout-page input[type="number"] {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: textfield;
+  padding: 4px;
+}

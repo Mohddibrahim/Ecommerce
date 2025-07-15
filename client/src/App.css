@@ -1,0 +1,20 @@
+/* .card {
+  transition: transform 0.2s ease-in-out;
+}
+.card:hover {
+  transform: scale(1.03);
+  border-color: #007bff;
+} */
+.border-hover:hover {
+  border: 1px solid #007bff;
+}
+/* App.css */
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main.flex-fill {
+  flex: 1;
+}
