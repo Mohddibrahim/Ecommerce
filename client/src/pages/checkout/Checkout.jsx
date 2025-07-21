@@ -75,7 +75,7 @@ const Checkout = () => {
       );
 
       const options = {
-        key: 'rzp_test_xEZqwWQlSDrufl', // ✅ Razorpay Key ID (keep secret key in backend only)
+        key: 'rzp_test_Lfnn1zH4dEGghy', // ✅ Razorpay Key ID (keep secret key in backend only)
         amount: order.amount,
         currency: 'INR',
         name: 'Your Store',
