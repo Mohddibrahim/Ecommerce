@@ -9,8 +9,6 @@ Tech Stack
 
 Installation
 
-Folder Structure
-
 API Endpoints
 
 Admin Features
@@ -87,25 +85,8 @@ Edit
 cd client
 npm install
 npm run dev
-📂 Folder Structure
-bash
-Copy
-Edit
-ecommerce-mern/
-├── client/               # React frontend
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/
-│   │   ├── utils/
-│   │   └── App.jsx
-├── server/               # Express backend
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   ├── middleware/
-│   ├── config/
-│   └── server.js
+
+
 🔗 API Endpoints
 🔒 Auth
 POST /api/auth/register – User Registration
